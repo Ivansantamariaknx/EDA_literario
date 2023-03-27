@@ -1,0 +1,1 @@
+Este proyecto tiene como objetivo realizar un análisis de los anuncios realizados en la plataforma Amazon España destinados a promocionar la saga de libros de fantasía La Decisión de la Espada.
